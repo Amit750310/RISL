@@ -1,0 +1,130 @@
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\visitor.dll.config
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\visitor.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\visitor.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\csc.exe
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\csc.exe.config
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\csc.rsp
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\csi.exe
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\csi.rsp
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\System.AppContext.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\System.Collections.Immutable.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\System.IO.FileSystem.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\System.Reflection.Metadata.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\vbc.exe
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\vbc.exe.config
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\vbc.rsp
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\VBCSCompiler.exe
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\roslyn\VBCSCompiler.exe.config
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Antlr3.Runtime.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\AspNet.ScriptManager.bootstrap.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\AspNet.ScriptManager.jQuery.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\BL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\EntityFramework.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\EntityFramework.SqlServer.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.Web.Infrastructure.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Newtonsoft.Json.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\System.Web.Optimization.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\WebGrease.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\BL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\EntityFramework.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\EntityFramework.SqlServer.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\System.Web.Optimization.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Newtonsoft.Json.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Antlr3.Runtime.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\obj\Debug\visitor.csproj.AssemblyReference.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\obj\Debug\visitor.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\obj\Debug\visitor.csproj.CopyComplete
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\obj\Debug\visitor.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\visitor\obj\Debug\visitor.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\visitor.dll.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\visitor.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\visitor.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csc.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csc.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csc.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csi.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csi.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.AppContext.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.Collections.Immutable.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.IO.FileSystem.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.Reflection.Metadata.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\vbc.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\vbc.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\vbc.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\VBCSCompiler.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\VBCSCompiler.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Antlr3.Runtime.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\AspNet.ScriptManager.bootstrap.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\AspNet.ScriptManager.jQuery.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\BL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.SqlServer.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.Web.Infrastructure.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Newtonsoft.Json.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\System.Web.Optimization.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\WebGrease.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\BL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.SqlServer.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\System.Web.Optimization.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Newtonsoft.Json.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Antlr3.Runtime.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\visitor.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\visitor.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\visitor.csproj.CopyComplete
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\visitor.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\visitor.pdb

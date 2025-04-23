@@ -1,0 +1,141 @@
+E:\WebsitePipeline\JNR\JNRCRM\ML\bin\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRM\ML\bin\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\ML\obj\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRM\ML\obj\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\ML\obj\Release\ML.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\bin\Release\ML.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\bin\Release\ML.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\obj\Release\ML.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\obj\Release\ML.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\obj\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.csproj.CoreCompileInputs.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.csprojAssemblyReference.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Release\ML.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Release\ML.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.csprojResolveAssemblyReference.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.csproj.CoreCompileInputs.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Release\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\bin\Release\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\bin\Release\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Release\ML.csproj.AssemblyReference.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Release\ML.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Release\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Release\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\bin\Release\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\bin\Release\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Release\ML.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Release\ML.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Release\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Release\ML.pdb
+D:\VMS\VMS\website\ML\bin\Release\ML.dll
+D:\VMS\VMS\website\ML\bin\Release\ML.pdb
+D:\VMS\VMS\website\ML\obj\Release\ML.csproj.AssemblyReference.cache
+D:\VMS\VMS\website\ML\obj\Release\ML.csproj.CoreCompileInputs.cache
+D:\VMS\VMS\website\ML\obj\Release\ML.dll
+D:\VMS\VMS\website\ML\obj\Release\ML.pdb
+D:\VMS\VMS\website\ML\bin\Release\Microsoft.Win32.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\netstandard.dll
+D:\VMS\VMS\website\ML\bin\Release\System.AppContext.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Collections.Concurrent.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Collections.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Collections.NonGeneric.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Collections.Specialized.dll
+D:\VMS\VMS\website\ML\bin\Release\System.ComponentModel.dll
+D:\VMS\VMS\website\ML\bin\Release\System.ComponentModel.EventBasedAsync.dll
+D:\VMS\VMS\website\ML\bin\Release\System.ComponentModel.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\System.ComponentModel.TypeConverter.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Console.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Data.Common.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.Contracts.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.Debug.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.FileVersionInfo.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.Process.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.StackTrace.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.TextWriterTraceListener.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.Tools.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.TraceSource.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Diagnostics.Tracing.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Drawing.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Dynamic.Runtime.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Globalization.Calendars.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Globalization.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Globalization.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.Compression.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.Compression.ZipFile.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.FileSystem.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.FileSystem.DriveInfo.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.FileSystem.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.FileSystem.Watcher.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.IsolatedStorage.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.MemoryMappedFiles.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.Pipes.dll
+D:\VMS\VMS\website\ML\bin\Release\System.IO.UnmanagedMemoryStream.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Linq.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Linq.Expressions.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Linq.Parallel.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Linq.Queryable.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.Http.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.NameResolution.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.NetworkInformation.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.Ping.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.Requests.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.Security.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.Sockets.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.WebHeaderCollection.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.WebSockets.Client.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Net.WebSockets.dll
+D:\VMS\VMS\website\ML\bin\Release\System.ObjectModel.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Reflection.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Reflection.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Reflection.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Resources.Reader.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Resources.ResourceManager.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Resources.Writer.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.CompilerServices.VisualC.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.Handles.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.InteropServices.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.Numerics.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.Serialization.Formatters.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.Serialization.Json.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.Serialization.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Runtime.Serialization.Xml.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Claims.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Cryptography.Algorithms.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Cryptography.Csp.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Cryptography.Encoding.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Cryptography.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Cryptography.X509Certificates.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Principal.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.SecureString.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Text.Encoding.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Text.Encoding.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Text.RegularExpressions.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Threading.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Threading.Overlapped.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Threading.Tasks.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Threading.Tasks.Parallel.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Threading.Thread.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Threading.ThreadPool.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Threading.Timer.dll
+D:\VMS\VMS\website\ML\bin\Release\System.ValueTuple.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Xml.ReaderWriter.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Xml.XDocument.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Xml.XmlDocument.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Xml.XmlSerializer.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Xml.XPath.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Xml.XPath.XDocument.dll
+D:\VMS\VMS\website\ML\bin\Release\System.DirectoryServices.Protocols.dll
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Principal.Windows.dll
+D:\VMS\VMS\website\ML\bin\Release\System.DirectoryServices.Protocols.xml
+D:\VMS\VMS\website\ML\bin\Release\System.Security.Principal.Windows.xml
+D:\VMS\VMS\website\ML\obj\Release\ML.csproj.CopyComplete

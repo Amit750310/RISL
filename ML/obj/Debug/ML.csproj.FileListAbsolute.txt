@@ -1,0 +1,194 @@
+F:\JNRCRM\ML\bin\Debug\ML.dll
+F:\JNRCRM\ML\bin\Debug\ML.pdb
+F:\JNRCRM\ML\obj\Debug\ML.dll
+F:\JNRCRM\ML\obj\Debug\ML.pdb
+E:\WebsitePipeline\JNR\Manish\JNRCRM\ML\bin\Debug\ML.dll
+E:\WebsitePipeline\JNR\Manish\JNRCRM\ML\bin\Debug\ML.pdb
+E:\WebsitePipeline\JNR\Manish\JNRCRM\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\JNR\Manish\JNRCRM\ML\obj\Debug\ML.dll
+E:\WebsitePipeline\JNR\Manish\JNRCRM\ML\obj\Debug\ML.pdb
+F:\JNRCRM-23-02-17\ML\bin\Debug\ML.dll
+F:\JNRCRM-23-02-17\ML\bin\Debug\ML.pdb
+F:\JNRCRM-23-02-17\ML\obj\Debug\ML.dll
+F:\JNRCRM-23-02-17\ML\obj\Debug\ML.pdb
+F:\JNRCRM\JNRCRM-24-02-17\ML\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM-24-02-17\ML\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM-24-02-17\ML\obj\Debug\ML.dll
+F:\JNRCRM\JNRCRM-24-02-17\ML\obj\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\ML\bin\Debug\ML.dll
+E:\WebsitePipeline\JNR\JNRCRM\ML\bin\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\ML\obj\Debug\ML.dll
+E:\WebsitePipeline\JNR\JNRCRM\ML\obj\Debug\ML.pdb
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\ML\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\ML\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\ML\obj\Debug\ML.dll
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\ML\obj\Debug\ML.pdb
+F:\JNRCRM\code3-3-17\JNRCRM\ML\bin\Debug\ML.dll
+F:\JNRCRM\code3-3-17\JNRCRM\ML\bin\Debug\ML.pdb
+F:\JNRCRM\code3-3-17\JNRCRM\ML\obj\Debug\ML.dll
+F:\JNRCRM\code3-3-17\JNRCRM\ML\obj\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+F:\JNRCRM\25-03-2017\JNRCRM\ML\bin\Debug\ML.dll
+F:\JNRCRM\25-03-2017\JNRCRM\ML\bin\Debug\ML.pdb
+F:\JNRCRM\25-03-2017\JNRCRM\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+F:\JNRCRM\25-03-2017\JNRCRM\ML\obj\Debug\ML.dll
+F:\JNRCRM\25-03-2017\JNRCRM\ML\obj\Debug\ML.pdb
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\ML\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\ML\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\ML\obj\Debug\ML.dll
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\ML\obj\Debug\ML.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\obj\Debug\ML.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\obj\Debug\ML.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\ML\bin\Debug\ML.dll
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\ML\bin\Debug\ML.pdb
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\ML\obj\Debug\ML.dll
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\ML\obj\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Debug\ML.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.csprojAssemblyReference.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Debug\ML.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\bin\Debug\ML.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\ML\obj\Debug\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\ML\bin\Debug\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\ML\bin\Debug\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\ML\obj\Debug\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\ML\obj\Debug\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\bin\Debug\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\bin\Debug\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Debug\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Debug\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\ML\bin\Debug\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\ML\bin\Debug\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\ML\obj\Debug\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\ML\obj\Debug\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\bin\Debug\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\bin\Debug\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Debug\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\ML\obj\Debug\ML.pdb
+D:\VMS\VMS\website\ML\bin\Debug\ML.dll
+D:\VMS\VMS\website\ML\bin\Debug\ML.pdb
+D:\VMS\VMS\website\ML\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\netstandard.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.AppContext.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Collections.Concurrent.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Collections.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Collections.NonGeneric.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Collections.Specialized.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.ComponentModel.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.ComponentModel.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Console.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Data.Common.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.Contracts.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.Debug.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.Process.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.Tools.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Diagnostics.Tracing.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Drawing.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Dynamic.Runtime.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Globalization.Calendars.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Globalization.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Globalization.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.Compression.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.FileSystem.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.IsolatedStorage.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.Pipes.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Linq.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Linq.Expressions.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Linq.Parallel.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Linq.Queryable.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.Http.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.NameResolution.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.NetworkInformation.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.Ping.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.Requests.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.Security.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.Sockets.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.WebSockets.Client.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Net.WebSockets.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.ObjectModel.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Reflection.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Reflection.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Reflection.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Resources.Reader.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Resources.ResourceManager.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Resources.Writer.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.Handles.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.InteropServices.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.Numerics.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Claims.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Principal.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.SecureString.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Text.Encoding.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Text.RegularExpressions.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Threading.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Threading.Overlapped.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Threading.Tasks.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Threading.Thread.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Threading.ThreadPool.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Threading.Timer.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.ValueTuple.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Xml.ReaderWriter.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Xml.XDocument.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Xml.XmlDocument.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Xml.XmlSerializer.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Xml.XPath.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.DirectoryServices.Protocols.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Principal.Windows.dll
+D:\VMS\VMS\website\ML\bin\Debug\System.DirectoryServices.Protocols.xml
+D:\VMS\VMS\website\ML\bin\Debug\System.Security.Principal.Windows.xml
+D:\VMS\VMS\website\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+D:\VMS\VMS\website\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+D:\VMS\VMS\website\ML\obj\Debug\ML.csproj.CopyComplete
+D:\VMS\VMS\website\ML\obj\Debug\ML.dll
+D:\VMS\VMS\website\ML\obj\Debug\ML.pdb

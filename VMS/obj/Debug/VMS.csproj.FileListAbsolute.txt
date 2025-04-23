@@ -1,0 +1,300 @@
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\visitor.dll.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\visitor.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\visitor.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csc.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csc.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csc.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csi.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\csi.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.AppContext.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.Collections.Immutable.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.IO.FileSystem.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\System.Reflection.Metadata.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\vbc.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\vbc.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\vbc.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\VBCSCompiler.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\roslyn\VBCSCompiler.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Antlr3.Runtime.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\AspNet.ScriptManager.bootstrap.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\AspNet.ScriptManager.jQuery.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\BL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.SqlServer.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.Web.Infrastructure.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Newtonsoft.Json.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\System.Web.Optimization.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\WebGrease.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\BL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\EntityFramework.SqlServer.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\System.Web.Optimization.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Newtonsoft.Json.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Antlr3.Runtime.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\VMS.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\VMS.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\VMS.csproj.CopyComplete
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\visitor.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\visitor\obj\Debug\visitor.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\visitor.dll.config
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\visitor.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\visitor.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\csc.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\csc.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\csc.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\csi.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\csi.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\System.AppContext.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\System.Collections.Immutable.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\System.IO.FileSystem.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\vbc.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\vbc.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\vbc.rsp
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\VBCSCompiler.exe
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\roslyn\VBCSCompiler.exe.config
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Antlr3.Runtime.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\AspNet.ScriptManager.bootstrap.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\AspNet.ScriptManager.jQuery.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\BL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\EntityFramework.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\EntityFramework.SqlServer.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.ScriptManager.WebForms.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.Web.Infrastructure.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Newtonsoft.Json.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\System.Web.Optimization.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\WebGrease.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\BL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\EntityFramework.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\EntityFramework.SqlServer.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\System.Web.Optimization.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Newtonsoft.Json.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Antlr3.Runtime.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\obj\Debug\VMS.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\obj\Debug\VMS.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\obj\Debug\VMS.csproj.CopyComplete
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\obj\Debug\visitor.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\VMS\obj\Debug\visitor.pdb
+D:\VMS\VMS\website\VMS\bin\visitor.dll.config
+D:\VMS\VMS\website\VMS\bin\visitor.dll
+D:\VMS\VMS\website\VMS\bin\visitor.pdb
+D:\VMS\VMS\website\VMS\bin\roslyn\csc.exe
+D:\VMS\VMS\website\VMS\bin\roslyn\csc.exe.config
+D:\VMS\VMS\website\VMS\bin\roslyn\csc.rsp
+D:\VMS\VMS\website\VMS\bin\roslyn\csi.exe
+D:\VMS\VMS\website\VMS\bin\roslyn\csi.rsp
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VMS\VMS\website\VMS\bin\roslyn\System.AppContext.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\System.Collections.Immutable.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\System.IO.FileSystem.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\VMS\VMS\website\VMS\bin\roslyn\vbc.exe
+D:\VMS\VMS\website\VMS\bin\roslyn\vbc.exe.config
+D:\VMS\VMS\website\VMS\bin\roslyn\vbc.rsp
+D:\VMS\VMS\website\VMS\bin\roslyn\VBCSCompiler.exe
+D:\VMS\VMS\website\VMS\bin\roslyn\VBCSCompiler.exe.config
+D:\VMS\VMS\website\VMS\bin\Microsoft.Win32.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\netstandard.dll
+D:\VMS\VMS\website\VMS\bin\System.AppContext.dll
+D:\VMS\VMS\website\VMS\bin\System.Collections.Concurrent.dll
+D:\VMS\VMS\website\VMS\bin\System.Collections.dll
+D:\VMS\VMS\website\VMS\bin\System.Collections.NonGeneric.dll
+D:\VMS\VMS\website\VMS\bin\System.Collections.Specialized.dll
+D:\VMS\VMS\website\VMS\bin\System.ComponentModel.dll
+D:\VMS\VMS\website\VMS\bin\System.ComponentModel.EventBasedAsync.dll
+D:\VMS\VMS\website\VMS\bin\System.ComponentModel.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\System.ComponentModel.TypeConverter.dll
+D:\VMS\VMS\website\VMS\bin\System.Console.dll
+D:\VMS\VMS\website\VMS\bin\System.Data.Common.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.Contracts.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.Debug.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.FileVersionInfo.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.Process.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.StackTrace.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.Tools.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.TraceSource.dll
+D:\VMS\VMS\website\VMS\bin\System.Diagnostics.Tracing.dll
+D:\VMS\VMS\website\VMS\bin\System.Drawing.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\System.Dynamic.Runtime.dll
+D:\VMS\VMS\website\VMS\bin\System.Globalization.Calendars.dll
+D:\VMS\VMS\website\VMS\bin\System.Globalization.dll
+D:\VMS\VMS\website\VMS\bin\System.Globalization.Extensions.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.Compression.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.Compression.ZipFile.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.FileSystem.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.FileSystem.DriveInfo.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.FileSystem.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.FileSystem.Watcher.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.IsolatedStorage.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.MemoryMappedFiles.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.Pipes.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.UnmanagedMemoryStream.dll
+D:\VMS\VMS\website\VMS\bin\System.Linq.dll
+D:\VMS\VMS\website\VMS\bin\System.Linq.Expressions.dll
+D:\VMS\VMS\website\VMS\bin\System.Linq.Parallel.dll
+D:\VMS\VMS\website\VMS\bin\System.Linq.Queryable.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.Http.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.NameResolution.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.NetworkInformation.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.Ping.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.Requests.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.Security.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.Sockets.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.WebHeaderCollection.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.WebSockets.Client.dll
+D:\VMS\VMS\website\VMS\bin\System.Net.WebSockets.dll
+D:\VMS\VMS\website\VMS\bin\System.ObjectModel.dll
+D:\VMS\VMS\website\VMS\bin\System.Reflection.dll
+D:\VMS\VMS\website\VMS\bin\System.Reflection.Extensions.dll
+D:\VMS\VMS\website\VMS\bin\System.Reflection.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\System.Resources.Reader.dll
+D:\VMS\VMS\website\VMS\bin\System.Resources.ResourceManager.dll
+D:\VMS\VMS\website\VMS\bin\System.Resources.Writer.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.Extensions.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.Handles.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.InteropServices.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.Numerics.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.Serialization.Formatters.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.Serialization.Json.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.Serialization.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\System.Runtime.Serialization.Xml.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Claims.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Cryptography.Algorithms.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Cryptography.Csp.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Cryptography.Encoding.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Cryptography.Primitives.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Cryptography.X509Certificates.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Principal.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.SecureString.dll
+D:\VMS\VMS\website\VMS\bin\System.Text.Encoding.dll
+D:\VMS\VMS\website\VMS\bin\System.Text.Encoding.Extensions.dll
+D:\VMS\VMS\website\VMS\bin\System.Text.RegularExpressions.dll
+D:\VMS\VMS\website\VMS\bin\System.Threading.dll
+D:\VMS\VMS\website\VMS\bin\System.Threading.Overlapped.dll
+D:\VMS\VMS\website\VMS\bin\System.Threading.Tasks.dll
+D:\VMS\VMS\website\VMS\bin\System.Threading.Tasks.Parallel.dll
+D:\VMS\VMS\website\VMS\bin\System.Threading.Thread.dll
+D:\VMS\VMS\website\VMS\bin\System.Threading.ThreadPool.dll
+D:\VMS\VMS\website\VMS\bin\System.Threading.Timer.dll
+D:\VMS\VMS\website\VMS\bin\System.ValueTuple.dll
+D:\VMS\VMS\website\VMS\bin\System.Xml.ReaderWriter.dll
+D:\VMS\VMS\website\VMS\bin\System.Xml.XDocument.dll
+D:\VMS\VMS\website\VMS\bin\System.Xml.XmlDocument.dll
+D:\VMS\VMS\website\VMS\bin\System.Xml.XmlSerializer.dll
+D:\VMS\VMS\website\VMS\bin\System.Xml.XPath.dll
+D:\VMS\VMS\website\VMS\bin\System.Xml.XPath.XDocument.dll
+D:\VMS\VMS\website\VMS\bin\Antlr3.Runtime.dll
+D:\VMS\VMS\website\VMS\bin\AspNet.ScriptManager.bootstrap.dll
+D:\VMS\VMS\website\VMS\bin\AspNet.ScriptManager.jQuery.dll
+D:\VMS\VMS\website\VMS\bin\BL.dll
+D:\VMS\VMS\website\VMS\bin\DL.dll
+D:\VMS\VMS\website\VMS\bin\EntityFramework.dll
+D:\VMS\VMS\website\VMS\bin\EntityFramework.SqlServer.dll
+D:\VMS\VMS\website\VMS\bin\FastReport.Compat.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.ScriptManager.WebForms.dll
+D:\VMS\VMS\website\VMS\bin\Microsoft.Web.Infrastructure.dll
+D:\VMS\VMS\website\VMS\bin\ML.dll
+D:\VMS\VMS\website\VMS\bin\Newtonsoft.Json.dll
+D:\VMS\VMS\website\VMS\bin\System.DirectoryServices.dll
+D:\VMS\VMS\website\VMS\bin\System.IO.FileSystem.AccessControl.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.AccessControl.dll
+D:\VMS\VMS\website\VMS\bin\System.Security.Principal.Windows.dll
+D:\VMS\VMS\website\VMS\bin\System.Web.Optimization.dll
+D:\VMS\VMS\website\VMS\bin\WebGrease.dll
+D:\VMS\VMS\website\VMS\bin\BL.pdb
+D:\VMS\VMS\website\VMS\bin\DL.pdb
+D:\VMS\VMS\website\VMS\bin\ML.pdb
+D:\VMS\VMS\website\VMS\bin\EntityFramework.xml
+D:\VMS\VMS\website\VMS\bin\EntityFramework.SqlServer.xml
+D:\VMS\VMS\website\VMS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VMS\VMS\website\VMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VMS\VMS\website\VMS\bin\System.DirectoryServices.xml
+D:\VMS\VMS\website\VMS\bin\System.IO.FileSystem.AccessControl.xml
+D:\VMS\VMS\website\VMS\bin\System.Security.AccessControl.xml
+D:\VMS\VMS\website\VMS\bin\System.Security.Principal.Windows.xml
+D:\VMS\VMS\website\VMS\bin\System.Web.Optimization.xml
+D:\VMS\VMS\website\VMS\bin\Newtonsoft.Json.xml
+D:\VMS\VMS\website\VMS\bin\Antlr3.Runtime.pdb
+D:\VMS\VMS\website\VMS\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\VMS\VMS\website\VMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VMS\VMS\website\VMS\obj\Debug\VMS.csproj.AssemblyReference.cache
+D:\VMS\VMS\website\VMS\obj\Debug\VMS.csproj.CoreCompileInputs.cache
+D:\VMS\VMS\website\VMS\obj\Debug\VMS.csproj.CopyComplete
+D:\VMS\VMS\website\VMS\obj\Debug\visitor.dll
+D:\VMS\VMS\website\VMS\obj\Debug\visitor.pdb

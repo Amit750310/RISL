@@ -1,0 +1,84 @@
+[Tue Aug 18 16:04:46.547 2020  1960] WARN    providers.common.csp Ing_ExportKeyVersioned - Exit -22: Key not exportable
+[Tue Aug 18 16:04:46.644 2020  1960] ERROR   mon.csp.IngCSPRemote IngCSPRemote::Ing_XML_ExportKey - Exit -22: Key not exportable
+[Tue Aug 18 16:04:46.153 2020  1960] ERROR   providers.common.csp Ing_XML_ExportKey - Exit -22: Key not exportable
+[Tue Aug 18 16:05:28.447 2020  1960] WARN    providers.common.csp Ing_ExportKeyVersioned - Exit -22: Key not exportable
+[Tue Aug 18 16:05:29.073 2020  1960] ERROR   mon.csp.IngCSPRemote IngCSPRemote::Ing_XML_ExportKey - Exit -22: Key not exportable
+[Tue Aug 18 16:05:29.917 2020  1960] ERROR   providers.common.csp Ing_XML_ExportKey - Exit -22: Key not exportable
+[Tue Aug 18 17:43:11.226 2020 12860] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3380] [-] [TestUser] [100002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:43:11.112 2020 12860] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:11.711 2020 12860] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.786 2020 12260] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3472] [-] [TestUser] [200002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:43:12.786 2020 12260] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.786 2020 12260] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.640 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3536] [-] [TestUser] [300002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:43:12.640 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.640 2020  4188] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.192 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3600] [-] [TestUser] [400002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:43:12.192 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.192 2020 16120] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.719 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3640] [-] [TestUser] [500002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:43:12.719 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.719 2020 16120] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.679 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3680] [-] [TestUser] [600002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:43:12.679 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:12.679 2020 16120] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:43:16.705 2020 16120] ERROR   providers.common.csp Session::Authenticate(1) - [192.168.2.25, 3736] [-] [Key or certificate does not exist or user does not have permissions to perform the operation] [700001] [op=Auth] [] Invalid username or password
+[Tue Aug 18 17:43:16.974 2020 16120] WARN    providers.common.csp Session::Authenticate(1) - Exit -202: NAE error: Invalid user
+[Tue Aug 18 17:43:16.446 2020 16120] WARN    providers.common.csp Ing_Login - Exit -202: NAE error: Invalid user
+[Tue Aug 18 17:44:12.927 2020 16856] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3856] [-] [TestUser] [800002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:44:13.844 2020 16856] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:13.926 2020 16856] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:13.882 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 1764] [-] [TestUser] [900002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:44:13.882 2020 16120] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:13.882 2020 16120] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.527 2020 12260] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3928] [-] [TestUser] [1000002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:44:14.527 2020 12260] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.527 2020 12260] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.113 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3964] [-] [TestUser] [1100002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:44:14.647 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.647 2020  4188] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.319 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 4004] [-] [TestUser] [1200002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:44:14.942 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.942 2020  4188] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.468 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 4048] [-] [TestUser] [1300002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:44:14.161 2020  4188] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:14.161 2020  4188] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:44:19.169 2020  4188] ERROR   providers.common.csp Session::Authenticate(1) - [192.168.2.25, 4080] [-] [Key or certificate does not exist or user does not have permissions to perform the operation] [1400001] [op=Auth] [] Invalid username or password
+[Tue Aug 18 17:44:19.169 2020  4188] WARN    providers.common.csp Session::Authenticate(1) - Exit -202: NAE error: Invalid user
+[Tue Aug 18 17:44:19.479 2020  4188] WARN    providers.common.csp Ing_Login - Exit -202: NAE error: Invalid user
+[Tue Aug 18 17:45:58.780 2020  2656] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3344] [-] [TestUser] [100002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:45:58.710 2020  2656] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:45:59.155 2020  2656] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:45:59.588 2020  2656] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3408] [-] [TestUser] [200002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:45:59.588 2020  2656] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:45:59.588 2020  2656] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:45:59.190 2020  2656] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3448] [-] [TestUser] [300002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 17:45:59.190 2020  2656] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:45:59.190 2020  2656] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 17:46:40.671 2020  2656] ERROR   providers.common.csp _set_export_data - Exit -11: Supplied buffer too small
+[Tue Aug 18 17:46:40.773 2020  2656] ERROR   providers.common.csp _export_key_certificate - Exit -11: Supplied buffer too small
+[Tue Aug 18 17:46:40.055 2020  2656] ERROR   providers.common.csp Ing_ExportObject - Exit -11: Supplied buffer too small
+[Tue Aug 18 18:28:12.305 2020 12732] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3392] [-] [TestUser] [100002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 18:28:12.448 2020 12732] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 18:28:12.721 2020 12732] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 18:28:13.778 2020 12732] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3460] [-] [TestUser] [200002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 18:28:13.778 2020 12732] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 18:28:13.778 2020 12732] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 18:28:13.723 2020 12732] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3504] [-] [TestUser] [300002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 18:28:13.723 2020 12732] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 18:28:13.723 2020 12732] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 18:28:20.773 2020 12732] ERROR   providers.common.csp _set_export_data - Exit -11: Supplied buffer too small
+[Tue Aug 18 18:28:20.074 2020 12732] ERROR   providers.common.csp _export_key_certificate - Exit -11: Supplied buffer too small
+[Tue Aug 18 18:28:20.700 2020 12732] ERROR   providers.common.csp Ing_ExportObject - Exit -11: Supplied buffer too small
+[Tue Aug 18 20:01:52.233 2020  4924] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3392] [-] [TestUser] [100002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 20:01:52.400 2020  4924] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 20:01:52.582 2020  4924] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 20:01:53.933 2020  4924] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3452] [-] [TestUser] [200002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 20:01:53.933 2020  4924] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 20:01:53.933 2020  4924] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 20:01:53.005 2020  4924] ERROR   providers.common.csp _get_key_attributes_plus_plus - [192.168.2.25, 3496] [-] [TestUser] [300002] [op=KeyInfo] [PFMSKEY] Unknown key name or insufficient permissions
+[Tue Aug 18 20:01:53.005 2020  4924] ERROR   providers.common.csp _get_key_attributes_plus_plus - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 20:01:53.005 2020  4924] WARN    providers.common.csp Ing_GetKeyInfo - Exit -1401: NAE error: Unknown key
+[Tue Aug 18 20:29:15.733 2020  4924] ERROR   providers.common.csp _set_export_data - Exit -11: Supplied buffer too small
+[Tue Aug 18 20:29:15.257 2020  4924] ERROR   providers.common.csp _export_key_certificate - Exit -11: Supplied buffer too small
+[Tue Aug 18 20:29:15.167 2020  4924] ERROR   providers.common.csp Ing_ExportObject - Exit -11: Supplied buffer too small

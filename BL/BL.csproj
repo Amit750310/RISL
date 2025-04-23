@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB10ED0B-86B7-4353-AE91-8C100BE0563A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BL</RootNamespace>
+    <AssemblyName>BL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>CS0414,CS0168</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApprovalOrderListBL.cs" />
+    <Compile Include="ApprovalOrderListML.cs" />
+    <Compile Include="clsAPIBl.cs" />
+    <Compile Include="ClsBlockMasterBL.cs" />
+    <Compile Include="ClsDeviceMasterBL.cs" />
+    <Compile Include="ClsDevicePartCodeMappingBL.cs" />
+    <Compile Include="ClsDistrictMasterBL.cs" />
+    <Compile Include="clsfill.cs" />
+    <Compile Include="ClsInventryListBL.cs" />
+    <Compile Include="ClsInventryMasterBL.cs" />
+    <Compile Include="ClsLocationmasterBL.cs" />
+    <Compile Include="ClsProjectMasterBL.cs" />
+    <Compile Include="ClsSearchvendorProductBL.cs" />
+    <Compile Include="ClsStateMasterBL.cs" />
+    <Compile Include="ClsStatusMasterBL.cs" />
+    <Compile Include="ClsSubCategoryMasterBL.cs" />
+    <Compile Include="ClsCategoryMasterBL.cs" />
+    <Compile Include="ClsSearchvendorsBL.cs" />
+    <Compile Include="ClsvendorsSearchProductBL.cs" />
+    <Compile Include="ClsvendorsBL.cs" />
+    <Compile Include="ClsLevelMasterBL.cs" />
+    <Compile Include="ClsBrandMasterBL.cs" />
+    <Compile Include="clsBulkOrderBL.cs" />
+    <Compile Include="ClsCurrencyupdateBL.cs" />
+    <Compile Include="ClsCustomerEnquiryBL.cs" />
+    <Compile Include="ClsDashboardBL.cs" />
+    <Compile Include="clsgranthBL.cs" />
+    <Compile Include="ClsUpdateSslGranthBL.cs" />
+    <Compile Include="ClsemployeemasterBL.cs" />
+    <Compile Include="ClsCustomerConvertBL.cs" />
+    <Compile Include="ClsFAQBL.cs" />
+    <Compile Include="ClsGetUserAgreementBL.cs" />
+    <Compile Include="ClshierarchyLevelBL.cs" />
+    <Compile Include="ClsLeadMasterBL.cs" />
+    <Compile Include="clsLoginBL.cs" />
+    <Compile Include="clsMenuMasterBL.cs" />
+    <Compile Include="clsOrderSummeryBL.cs" />
+    <Compile Include="ClsPageDetailBL.cs" />
+    <Compile Include="clsPlaceOrderBL.cs" />
+    <Compile Include="ClsProductMasterBL.cs" />
+    <Compile Include="ClsProposalBL.cs" />
+    <Compile Include="clsRollMenuRelationBL.cs" />
+    <Compile Include="ClsTicketRequestBL.cs" />
+    <Compile Include="conn.cs" />
+    <Compile Include="PhoneDirectoryBL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RequestMasterBL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DL\DL.csproj">
+      <Project>{93237bcd-1f8e-4f78-871a-0e2a3e6f8f36}</Project>
+      <Name>DL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ML\ML.csproj">
+      <Project>{44df2c96-5570-43bf-b7c2-00f1ccf26d04}</Project>
+      <Name>ML</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

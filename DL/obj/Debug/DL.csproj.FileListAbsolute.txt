@@ -1,0 +1,141 @@
+F:\JNRCRM\DL\bin\Debug\DL.dll
+F:\JNRCRM\DL\bin\Debug\DL.pdb
+F:\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\DL\obj\Debug\DL.dll
+F:\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM\DL\bin\Debug\ML.dll
+F:\JNRCRM\DL\bin\Debug\ML.pdb
+E:\WebsitePipeline\JNR\Manish\JNRCRM\DL\bin\Debug\DL.dll
+E:\WebsitePipeline\JNR\Manish\JNRCRM\DL\bin\Debug\DL.pdb
+E:\WebsitePipeline\JNR\Manish\JNRCRM\DL\bin\Debug\ML.dll
+E:\WebsitePipeline\JNR\Manish\JNRCRM\DL\bin\Debug\ML.pdb
+E:\WebsitePipeline\JNR\Manish\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\JNR\Manish\JNRCRM\DL\obj\Debug\DL.dll
+E:\WebsitePipeline\JNR\Manish\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM-23-02-17\DL\bin\Debug\DL.dll
+F:\JNRCRM-23-02-17\DL\bin\Debug\DL.pdb
+F:\JNRCRM-23-02-17\DL\bin\Debug\ML.dll
+F:\JNRCRM-23-02-17\DL\bin\Debug\ML.pdb
+F:\JNRCRM-23-02-17\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM-23-02-17\DL\obj\Debug\DL.dll
+F:\JNRCRM-23-02-17\DL\obj\Debug\DL.pdb
+F:\JNRCRM\JNRCRM-24-02-17\DL\bin\Debug\DL.dll
+F:\JNRCRM\JNRCRM-24-02-17\DL\bin\Debug\DL.pdb
+F:\JNRCRM\JNRCRM-24-02-17\DL\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM-24-02-17\DL\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM-24-02-17\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM-24-02-17\DL\obj\Debug\DL.dll
+F:\JNRCRM\JNRCRM-24-02-17\DL\obj\Debug\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Debug\DL.dll
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Debug\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Debug\ML.dll
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\JNR\JNRCRM\DL\obj\Debug\DL.dll
+E:\WebsitePipeline\JNR\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\DL\bin\Debug\DL.dll
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\DL\bin\Debug\DL.pdb
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\DL\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\DL\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\DL\obj\Debug\DL.dll
+F:\JNRCRM\JNRCRM01-03-2017\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM\code3-3-17\JNRCRM\DL\bin\Debug\DL.dll
+F:\JNRCRM\code3-3-17\JNRCRM\DL\bin\Debug\DL.pdb
+F:\JNRCRM\code3-3-17\JNRCRM\DL\bin\Debug\ML.dll
+F:\JNRCRM\code3-3-17\JNRCRM\DL\bin\Debug\ML.pdb
+F:\JNRCRM\code3-3-17\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\code3-3-17\JNRCRM\DL\obj\Debug\DL.dll
+F:\JNRCRM\code3-3-17\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM\25-03-2017\JNRCRM\DL\bin\Debug\DL.dll
+F:\JNRCRM\25-03-2017\JNRCRM\DL\bin\Debug\DL.pdb
+F:\JNRCRM\25-03-2017\JNRCRM\DL\bin\Debug\ML.dll
+F:\JNRCRM\25-03-2017\JNRCRM\DL\bin\Debug\ML.pdb
+F:\JNRCRM\25-03-2017\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\25-03-2017\JNRCRM\DL\obj\Debug\DL.dll
+F:\JNRCRM\25-03-2017\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\DL\bin\Debug\DL.dll
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\DL\bin\Debug\DL.pdb
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\DL\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\DL\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\DL\obj\Debug\DL.dll
+F:\JNRCRM\JNRCRM31-3-17\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Debug\DL.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Debug\DL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Debug\ML.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Debug\ML.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\obj\Debug\DL.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\obj\Debug\DL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\bin\Debug\DL.dll
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\bin\Debug\DL.pdb
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\bin\Debug\ML.dll
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\bin\Debug\ML.pdb
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\obj\Debug\DL.dll
+E:\WebsitePipeline\bajinder back up\JNR\JNRCRMProduction\DL\obj\Debug\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\DL.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\ML.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.csprojAssemblyReference.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.csproj.CopyComplete
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\DL.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\DL.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\ML.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Debug\ML.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.csprojResolveAssemblyReference.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.csproj.CopyComplete
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Debug\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\bin\Debug\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\bin\Debug\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\bin\Debug\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\bin\Debug\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\obj\Debug\DL.csproj.CopyComplete
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\obj\Debug\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\JNRCRMProduction\DL\obj\Debug\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Debug\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Debug\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Debug\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Debug\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Debug\DL.csproj.CopyComplete
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Debug\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Debug\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\bin\Debug\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\bin\Debug\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\bin\Debug\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\bin\Debug\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\obj\Debug\DL.csproj.CopyComplete
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\obj\Debug\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website_\DL\obj\Debug\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Debug\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Debug\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Debug\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Debug\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Debug\DL.csproj.CopyComplete
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Debug\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Debug\DL.pdb
+D:\VMS\VMS\website\DL\bin\Debug\DL.dll
+D:\VMS\VMS\website\DL\bin\Debug\DL.pdb
+D:\VMS\VMS\website\DL\bin\Debug\ML.dll
+D:\VMS\VMS\website\DL\bin\Debug\ML.pdb
+D:\VMS\VMS\website\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+D:\VMS\VMS\website\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+D:\VMS\VMS\website\DL\obj\Debug\DL.csproj.CopyComplete
+D:\VMS\VMS\website\DL\obj\Debug\DL.dll
+D:\VMS\VMS\website\DL\obj\Debug\DL.pdb

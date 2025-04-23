@@ -1,0 +1,77 @@
+E:\WebsitePipeline\JNR\JNRCRM\BL\bin\Release\BL.dll
+E:\WebsitePipeline\JNR\JNRCRM\BL\bin\Release\BL.pdb
+E:\WebsitePipeline\JNR\JNRCRM\BL\bin\Release\DL.dll
+E:\WebsitePipeline\JNR\JNRCRM\BL\bin\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRM\BL\bin\Release\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRM\BL\bin\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\JNR\JNRCRM\BL\obj\Release\BL.dll
+E:\WebsitePipeline\JNR\JNRCRM\BL\obj\Release\BL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\bin\Release\BL.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\bin\Release\BL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\bin\Release\DL.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\bin\Release\ML.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\bin\Release\DL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\bin\Release\ML.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\obj\Release\BL.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\BL\obj\Release\BL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\BL.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\BL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\DL.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\SymantecAPI.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\SymantecAPI.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.csprojAssemblyReference.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.csproj.CopyComplete
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\BL.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\BL.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\DL.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\ML.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\SymantecAPI.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\DL.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\ML.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\bin\Release\SymantecAPI.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.csproj.CopyComplete
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\BL\obj\Release\BL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\bin\Release\BL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\bin\Release\BL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\bin\Release\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\bin\Release\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\bin\Release\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\bin\Release\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\obj\Release\BL.csproj.AssemblyReference.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\obj\Release\BL.csproj.CopyComplete
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\obj\Release\BL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\BL\obj\Release\BL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\bin\Release\BL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\bin\Release\BL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\bin\Release\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\bin\Release\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\bin\Release\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\bin\Release\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\obj\Release\BL.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\obj\Release\BL.csproj.CopyComplete
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\obj\Release\BL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\BL\obj\Release\BL.pdb
+D:\VMS\VMS\website\BL\bin\Release\BL.dll
+D:\VMS\VMS\website\BL\bin\Release\BL.pdb
+D:\VMS\VMS\website\BL\bin\Release\DL.dll
+D:\VMS\VMS\website\BL\bin\Release\ML.dll
+D:\VMS\VMS\website\BL\bin\Release\DL.pdb
+D:\VMS\VMS\website\BL\bin\Release\ML.pdb
+D:\VMS\VMS\website\BL\obj\Release\BL.csproj.AssemblyReference.cache
+D:\VMS\VMS\website\BL\obj\Release\BL.csproj.CoreCompileInputs.cache
+D:\VMS\VMS\website\BL\obj\Release\BL.csproj.CopyComplete
+D:\VMS\VMS\website\BL\obj\Release\BL.dll
+D:\VMS\VMS\website\BL\obj\Release\BL.pdb

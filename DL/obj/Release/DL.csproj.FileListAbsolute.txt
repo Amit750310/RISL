@@ -1,0 +1,59 @@
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Release\DL.dll
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Release\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRM\DL\bin\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRM\DL\obj\Release\DL.csprojResolveAssemblyReference.cache
+E:\WebsitePipeline\JNR\JNRCRM\DL\obj\Release\DL.dll
+E:\WebsitePipeline\JNR\JNRCRM\DL\obj\Release\DL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Release\DL.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Release\DL.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Release\ML.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\bin\Release\ML.pdb
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\obj\Release\DL.csprojResolveAssemblyReference.cache
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\obj\Release\DL.dll
+F:\JNRCRM\JNRCRM7-4-17\JNRCRM\DL\obj\Release\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\DL.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\ML.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\ML.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.dll
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.pdb
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.csprojAssemblyReference.cache
+E:\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.csproj.CopyComplete
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\DL.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\DL.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\ML.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\bin\Release\ML.pdb
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.csprojResolveAssemblyReference.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.csproj.CopyComplete
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.dll
+D:\JNR\e data 5-7-19\WebsitePipeline\JNR\JNRCRMProduction\DL\obj\Release\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Release\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Release\DL.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Release\ML.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\bin\Release\ML.pdb
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Release\DL.csproj.AssemblyReference.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Release\DL.csproj.CopyComplete
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Release\DL.dll
+D:\SISL INFOTECH\Clients\internal\visiter managment\website\DL\obj\Release\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Release\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Release\DL.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Release\ML.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\bin\Release\ML.pdb
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Release\DL.csproj.AssemblyReference.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Release\DL.csproj.CopyComplete
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Release\DL.dll
+E:\SISL INFOTECH\Clients\internal\VMS\website\DL\obj\Release\DL.pdb
+D:\VMS\VMS\website\DL\bin\Release\DL.dll
+D:\VMS\VMS\website\DL\bin\Release\DL.pdb
+D:\VMS\VMS\website\DL\bin\Release\ML.dll
+D:\VMS\VMS\website\DL\bin\Release\ML.pdb
+D:\VMS\VMS\website\DL\obj\Release\DL.csproj.AssemblyReference.cache
+D:\VMS\VMS\website\DL\obj\Release\DL.csproj.CoreCompileInputs.cache
+D:\VMS\VMS\website\DL\obj\Release\DL.csproj.CopyComplete
+D:\VMS\VMS\website\DL\obj\Release\DL.dll
+D:\VMS\VMS\website\DL\obj\Release\DL.pdb

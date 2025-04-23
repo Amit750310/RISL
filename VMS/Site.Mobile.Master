@@ -1,0 +1,137 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Mobile.master.cs" Inherits="vms.Site_Mobile" %>
+<%@ Register Src="~/ViewSwitcher.ascx" TagPrefix="friendlyUrls" TagName="ViewSwitcher" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+<!-- BEGIN HEAD -->
+<head id="Head1" runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <title>VMS</title>
+    <!-- <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="images/favicon.ico" type="image/x-icon"> -->
+    <!-- Bootstrap CSS -->
+    <link rel='stylesheet' href='assets/css/bootstrap.min.css'>
+    <link rel='stylesheet' href='assets/css/material.css'>
+    <link rel='stylesheet' href='assets/css/style.css'>
+    <script src='assets/js/jquery.js'></script>
+    <script src='assets/js/app.js'></script>
+    <script>
+        jQuery(window).load(function () {
+            $('.piluku-preloader').addClass('hidden');
+        });
+    </script>
+</head>
+<body class="">
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="script1" runat="server">
+        </asp:ScriptManager>
+        <div class="wrapper ">
+            <div class="left-bar ">
+                <div class="admin-logo">
+                    <div class="logo-holder pull-left">
+                        <img class="logo" src="assets/images/sisl_1.png" alt="logo">
+                    </div>
+                    <!-- logo-holder -->
+                    <a href="#" class="menu-bar  pull-right"><i class="ti-menu"></i></a>
+                </div>
+                <!-- admin-logo -->
+                <ul class="list-unstyled menu-parent" id="mainMenu">
+                    <li><a href="Dashboard.aspx" class="waves-effect waves-light"><i class="icon ti-home"></i>
+                        <span class="text ">Dashboard</span> </a></li>
+                    <asp:Repeater ID="rptMenu" runat="server" OnItemDataBound="rptMenu_ItemDataBound">
+                        <ItemTemplate>
+                            <li class="submenu">
+                                <asp:Label ID="lblmenuId" runat="server" Text='<%#Eval("menuId") %>' Visible="false"></asp:Label>
+                                <a class="waves-effect waves-light" href="#layouts">
+                                    <i class="ion-android-settings"></i><span class="text"><%#Eval("menuName") %></span>
+                                    <i class="chevron ti-angle-right"></i></a>
+                                <asp:Repeater ID="rptSubMenu" runat="server">
+                                    <ItemTemplate>
+                                        <ul class="list-unstyled">
+
+                                            <li><a href='<%#Eval("childeMenuPage") %>'><%#Eval("childeMenuName") %></a> </li>
+                                        </ul>
+                                    </ItemTemplate>
+                                </asp:Repeater>
+                            </li>
+                        </ItemTemplate>
+                    </asp:Repeater>
+                    
+                    
+                </ul>
+
+            </div>
+            <!-- left-bar -->
+            <div class="content" id="content">
+                <div class="overlay">
+                </div>
+                <div class="top-bar">
+                    <nav class="navbar navbar-default top-bar">
+							<div class="menu-bar-mobile" id="open-left"><i class="ti-menu"></i></div>
+							<ul class="nav navbar-nav navbar-right top-elements">
+								<li class="piluku-dropdown dropdown">
+									<!-- @todo Change design here, its bit of odd or not upto usable -->
+									<a href="#" class="dropdown-toggle avatar_width" data-toggle="dropdown" role="button" aria-expanded="false">
+										<span class="avatar-holder"><img src="assets/images/avatar/two.png" alt=""></span>
+										<span class="avatar_info"><asp:Label ID="lblname" runat="server" Text=""></asp:Label></span>
+										<span class="drop-icon"> <i class="ion ion-chevron-down"></i> </span>
+									</a>
+									<ul class="dropdown-menu dropdown-piluku-menu  animated fadeInUp wow avatar_drop neat_drop dropdown-right" data-wow-duration="1500ms" role="menu">
+										
+										<li>
+											<a href="#"> <i class="ion-android-create"></i>Edit profile</a>
+										</li>
+										<li>
+											<a href="Changepassword.aspx"> <i class="ion-android-settings"></i>Change Password</a>
+										</li>
+										<li>
+											<a href="Logout.aspx" > <i class="ion-power"></i>Logout</a>
+										</li>
+										 
+									</ul>
+								</li>
+								
+							</ul>
+						</nav>
+                </div>
+                <!-- /top-bar -->
+                <!-- Page Header -->
+                <asp:ContentPlaceHolder ID="head" runat="server">
+                </asp:ContentPlaceHolder>
+                <!--main content-->
+            </div>
+        </div>
+    </form>
+    <!-- wrapper -->
+    <script src='assets/js/jquery-ui-1.10.3.custom.min.js'></script>
+    <script src='assets/js/bootstrap.min.js'></script>
+    <script src='assets/js/jquery.nicescroll.min.js'></script>
+    <script src='assets/js/wow.min.js'></script>
+    <script src='assets/js/jquery.loadmask.min.js'></script>
+    <script src='assets/js/jquery.accordion.js'></script>
+    <script src='assets/js/materialize.js'></script>
+    <script src='assets/js/bic_calendar.js'></script>
+    <script src='assets/js/core.js'></script>
+    <script src='assets/js/select2.js'></script>
+    <script src='assets/js/jquery.multi-select.js'></script>
+    <script src='assets/js/bootstrap-filestyle.js'></script>
+    <script src='assets/js/bootstrap-datepicker.js'></script>
+    <script src='assets/js/bootstrap-colorpicker.js'></script>
+    <script src='assets/js/jquery.maskedinput.js'></script>
+    <script src='assets/js/jquery.dataTables.min.js'></script>
+    <script src='assets/js/bootstrap-datatables.js'></script>
+    <script src='assets/js/dataTables-custom.js'></script>
+    <script src='assets/js/mindmup-editabletable.js'></script>
+    <script src='assets/js/numeric-input-example.js'></script>
+    <script src='assets/js/dynamic-tables.js'></script>
+    <script src="assets/js/jquery.countTo.js"></script>
+    <script src='assets/js/form-elements.js'></script>
+</body>
+<!-- END JAVASCRIPTS -->
+</html>
